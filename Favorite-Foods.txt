@@ -1,5 +1,10 @@
-Bluecheese
-french fries
-Mac & Cheese
-Pizza
-Spaghetti
++Bluecheese
+[Condiment]
++french fries
+[Vegetable]
++Mac & Cheese
+[Pasta]
++Pizza
+[Italian]
++Spaghetti
+[Pasta]
